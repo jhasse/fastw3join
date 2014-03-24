@@ -1,2 +1,0 @@
-.+Ihr Freund (.+) hat sich in ein Warcraft III The Frozen Throne-Spiel mit dem Namen (.+) eingek.+
-.+Your friend (.+) entered a Warcraft III The Frozen Throne game called (.+).+
